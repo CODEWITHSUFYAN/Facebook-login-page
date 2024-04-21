@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: whitesmoke;
+}
+
+h1{
+    color: rgba(18, 111, 233, 0.801);
+    font-size: 60px;
+}
+.text{
+    margin-top: 250px;
+    margin-left: 150px;
+}
+
+input{
+    margin-left: 900px;
+    height: 60px;
+    width: 300px;
+}
+button{
+    margin-left: 900px;
+}
+a{
+    margin-left: 900px;
+    text-decoration: none;
+}
+#login{
+    height: 60px;
+    width: 305px;
+    background-color:#6565ff;;
+    color: #fff;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 6px;
+}
+
+
+input{
+    
+    margin-top: 22px;
+  
+}   
+
+#forgot{
+    text-align: center;
+    margin-left: 1000px;
+}
+hr{
+    width: 307px;
+    margin-left: 900px;
+}
+#account{
+    height: 45px;
+    width: 275px;
+    background-color: green;
+    color: #fff;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 15px;
+    border-radius: 6px;
+    margin-left: 920px;
+}
+p{
+    font-weight: 700;
+    font-size: 25px;
+}
+form{
+    border-left-width: 0px;
+    border-right-width: 25px;
+    border-top-width: 5px;
+    border-bottom-width: 5px;
+    border: 30px solid #fff;
+    
+}
